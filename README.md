@@ -9,7 +9,7 @@
 - One-click deploy with GitHub Pages
 
 ## 💻 Live Demo
-https://varshithdev.github.io/Career-Guide/
+https://varshithdev.github.io/career-guide/
 
 ## 🛠 Built With
 - HTML + CSS
